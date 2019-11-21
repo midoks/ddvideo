@@ -1,4 +1,4 @@
-# ddvideo
+# DDVideo
 简单视频发布系统
 
 - 使用PHP CodeIgniter框架来开发.
